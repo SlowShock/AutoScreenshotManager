@@ -1,0 +1,2 @@
+# AutoScreenshotManager
+Program for windows?
